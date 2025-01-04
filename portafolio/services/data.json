@@ -1,38 +1,37 @@
 {
   "profile": {
-    "name": "Jose Manuel Romero Flores",
-    "position": "Senior .NET Dev & Cloud",
-    "location": " Granada, Andalucía, España",
+    "name": "Jorge Ignacio Valdes Flores",
+    "position": "Data Engineer | Python | Scala | SQL | Big Data | Cloud | DevOps",
+    "location": " Chile, Talca",
     "last_update": "27 Noviembre 2024",
-    "avatar": "./avatar.png"
+    "avatar": "./JorgeValdes.jpg"
   },
   "media": [
     {
       "icon": "mail",
-      "text": "jomaroflo94@gmail.com",
+      "text": "jorgeignaciovaldesflores@gmail.com",
       "url": "mailto:"
     },
     {
       "icon": "file-text",
-      "url": "https://drive.google.com/file/d/1ocNNdoDBp64F0O19fS6skiaDUAaa8MeF/view?usp=drive_link",
+      "url" : "https://github.com/JorgeValdes",
       "is_primary": false
     },
     {
       "icon": "github",
-      "url": "https://github.com/Jomaroflo94",
+      "url": "https://github.com/JorgeValdes",
       "is_primary": false
     },
     {
       "icon": "linkedin",
-      "url": "https://www.linkedin.com/in/jose-manuel-romero-flores-b07254118",
+      "url": "https://www.linkedin.com/in/jorge-valdes-flores-775b8b1a4/",
       "is_primary": false
     }
   ],
   "about": [
-    "¡Saludos! Me llamo Jose Manuel 👋😄",
-    "Soy ingeniero de Software desde hace algo más de siete años. Aunque me gradué en ingeniería de tecnologías de telecomunicación, decidí dirigir mi camino profesional hacia el sector de la programación.",
-    "Desde mis comienzos, he ido especializándome poco a poco en los diferentes bloques del desarrollo de aplicaciones web, enfatizando la mayoría de mis conocimientos en la parte Backend y Cloud. Aun así, intento compaginar mi tiempo personal en estar actualizado y al tanto de los distintos avances tecnológicos.",
-    "Me gustaría seguir creciendo en el sector, transmitiendo mi conocimiento a otras personas y, por supuesto, recibiendo la ayuda de otros. Siempre estoy abierto a nuevas conexiones y oportunidades, no dudes en contactarme si crees que puedo serte de ayuda!"
+    "Ingeniero de Datos altamente motivado y con experiencia en el diseño, desarrollo y gestión de soluciones de análisis de datos." ,
+    "Mi enfoque se centra en la creación de infraestructuras de datos sólidas y escalables que permitan a las organizaciones aprovechar al máximo sus activos de información. ",
+    "Durante 3 años de experiencia en la industria, he tenido la oportunidad de trabajar en diversos proyectos de datos que abarcan diferentes dominios y tecnología, enfocados en Retail y sector Bancario. Me ha permitido ser un colaborador eficaz, trabajando en equipo, fomentando relaciones efectivas, comunicación clara y un ambiente de trabajo positivo focalizado en la resolución de problemas y la toma de decisiones informadas."
   ],
   "technologies": [
     {

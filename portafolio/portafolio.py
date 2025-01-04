@@ -11,7 +11,7 @@ from portafolio.views.body.others import others
 from portafolio.services.data import data
 
 DATA = data;
-title = "Portafolio - Jose Manuel Romero Flores"
+title = "Portafolio - Jorge Ignacio Valdes Flores........."
 description = DATA['profile']['name']
 image = DATA['profile']['avatar']
 
